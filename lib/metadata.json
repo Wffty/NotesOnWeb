@@ -1,127 +1,30 @@
 {
   "vaultName": "主仓库",
-  "lastExport": 1728801551354,
+  "lastExport": 1732676033807,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon colorful-folder card-layout-open-light theme-light-background-adapt accent-color-override-light mod-left-split-background-primary-light mod-right-split-background-primary-light mod-root-split-background-primary-light background-underlying-default-light activated-file-default-light card-highlight-light card-layout-open-dark theme-dark-background-darker mod-left-split-background-primary-dark mod-right-split-background-primary-dark mod-root-split-background-primary-dark background-underlying-default-dark activated-file-default-dark codeblock-style-customize callout-style-customize seamless-embeds DB-table-bg-color-adapt Projects-bg-color-adapt",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "读书笔记/曹老师2019年论文/assets/2afecc8cdef7da02a715c0651dd9acda_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/8e53fd82d1e3050d2c352624d3a754db_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/0016bfccfd30573c81a873ba3dcd33aa_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/75e3a9552495f464139043818d995b59_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/671f80493a8e186f297aafcbc07613ad_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/713c1428cb5466c1af016abe6e4d4d5f_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/6763d162069f4b0422e9ef79456c4bb8_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/12191f4ba507070b53ec2980719a43d8_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/086701fda35a7ff44e88bc56ed71ac6c_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/日志结构化合并 （LSM） 树简介 - GeeksforGeeks (2024_9_12 22_05_17).html",
-    "读书笔记/曹老师2019年论文/assets/a58d48af663aed636c8c5460886af70c_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/b3b2f034bcbf0fe0cc94bd6029e7ff30_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/b9d799c0c72f55bdaca5a282c5adc5b5_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/bbff9ffde404abc4bab1a896611e3deb_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/c794693ecb2673dc13277a64a5570d9d_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/ccc5d72e20be61cf945f86a82a1fa490_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/d926e0a66b683f833b7b9366d5fbb352_MD5.png",
-    "读书笔记/曹老师2019年论文/assets/f87b5943ad93d3bb43c38ddd6e856385_MD5.png",
-    "读书笔记/曹老师2019年论文/2024年9月12日_正文.md",
-    "读书笔记/曹老师2019年论文/曹老师2019年论文.md",
-    "读书笔记/曹老师2019年论文/论文总结.md",
-    "读书笔记/曹老师2019年论文/直接存储系统.md",
-    "读书笔记/assets/Pasted image 20241004090357.png",
-    "读书笔记/2024年9月5日_《金字塔原理》读书报告.md",
-    "读书笔记/2024年9月28日_《逻辑的力量》.md",
-    "读书笔记/2024年10月4日_闲书《深度说服》.md",
-    "读书笔记/读书笔记.md",
-    "读书笔记/人性的弱点.md",
-    "读书笔记/深度工作.md",
-    "读书笔记/数字极简.md",
-    "项目/ahk学习/@@插入当前格式化的日期时间.md",
-    "项目/ahk学习/2024-10-11AHK截屏.md",
-    "项目/ahk学习/2024年10月8日_关于AHK.md",
-    "项目/ahk学习/2024年10月9日_AHK弹窗输入.md",
-    "项目/ahk学习/并排和可以拖动.md",
-    "项目/ahk学习/语法.md",
-    "项目/ahk学习/字符连接.md",
-    "项目/ahk学习/AHK处理第三方链接.md",
-    "项目/ahk学习/AHK计时器.md",
-    "项目/ahk学习/AHK实现视频截图.md",
-    "项目/ahk学习/AHK小型清单.md",
-    "项目/ahk学习/ahk学习.md",
-    "项目/ahk学习/DLLCALL的HOOK函数.md",
-    "项目/ahk学习/mykeymap2.0.md",
-    "项目/ahk学习/Vscode文件夹_等待按键输入.md",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT2M58.516S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT3M42.995S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT4M30.445S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT4M38.177S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT6M43.473S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT11M2.584S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT11M52.009S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT13M48.474S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT16M40.239S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT19M12.5S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT20M10.258S.webp",
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT21M23.375S.webp",
-    "项目/assets/Pasted image 20241011113611.png",
-    "项目/assets/Pasted image 20241011113736.png",
-    "项目/assets/Pasted image 20241011151145.png",
-    "项目/assets/Pasted image 20241011151626.png",
-    "项目/assets/Pasted image 20241011153047.png",
-    "项目/assets/Pasted image 20241011153124.png",
-    "项目/assets/Pasted image 20241011203042.png",
-    "项目/assets/Pasted image 20241012154037.png",
-    "项目/assets/Pasted image 20241012154446.png",
-    "项目/assets/Pasted image 20241012154609.png",
-    "项目/assets/Pasted image 20241012155216.png",
-    "项目/assets/Pasted image 20241012155710.png",
-    "项目/assets/Pasted image 20241012155757.png",
-    "项目/assets/Pasted image 20241013082629.png",
-    "项目/assets/Pasted image 20241013084147.png",
-    "项目/搭建Vercel的静态网页.md",
-    "项目/多路复用器.md",
-    "项目/李宏毅机器学习课程.md",
-    "项目/论文Attention is all you need.md",
-    "项目/认识Chisel.md",
-    "项目/阮一峰神经网络（网页）.md",
-    "项目/使用dufs.md",
-    "项目/宿舍NFC门锁.md",
-    "项目/稀疏自解码器.md",
-    "项目/线性代数的本质视频.md",
-    "项目/学习Verilog语法.md",
-    "项目/自注意力机制.md",
-    "项目/always和assign的区别.md",
-    "项目/cs231n：手撕神经网络 .md",
-    "项目/GPT是什么.md",
-    "项目/Java学习路线.md",
-    "项目/Linux小简介.md",
-    "项目/reg和wire的区别.md",
-    "项目/softmax函数和大模型的温度.md",
-    "项目/Tasks的任务汇总.md",
-    "Quail/游戏清单/鸡械绿洲.md",
-    "Quail/游戏清单/空洞骑士.md",
-    "Quail/游戏清单/泰拉瑞亚（原版）.md",
-    "Quail/游戏清单/泰拉瑞亚（灾厄）.md",
-    "Quail/游戏清单/游戏清单.md",
-    "Quail/assets/3d8924c17480f2ce2886f134bf19c3af_MD5.png",
-    "Quail/assets/7de22746dc07a6584d9b4eccf26cf63f_MD5.png",
-    "Quail/assets/d7b2480e2d6bdee007372520efa5ff00_MD5.png",
-    "Quail/assets/Pasted image 20240924162928.png",
-    "Quail/2024年9月3日_使用alist.md",
-    "Quail/2024年9月5日_LinuxIO栈文档笔记.md",
-    "Quail/2024年9月23日_URL缩短器的原理.md",
-    "Quail/2024年9月24日_不同库之间的任务分工.md",
-    "Quail/2024年9月24日_沁苑宿舍也许用得着推荐.md",
-    "Quail/2024年9月24日_学术GPT.md",
-    "Quail/2024年10月5日_出行.md",
-    "Quail/记一次github被封.md",
-    "Quail/Quail.md",
-    "Quail/Thunderbird操作学校邮箱日历的可能性.md",
-    "lib/media/pasted-image-20241009114123.png",
-    "lib/media/pasted-image-20241009114325.png",
-    "lib/media/pasted-image-20240924090835.png",
-    "lib/media/pasted-image-20240924090901.png",
-    "lib/scripts/graph-wasm.wasm",
+    "01-论文/量化/Atom.md",
+    "01-论文/量化/AWQ.md",
+    "01-论文/量化/GPTQ.md",
+    "01-论文/量化/KIVI.md",
+    "01-论文/量化/LLM.int8().md",
+    "01-论文/量化/OBC（高效压缩）.md",
+    "01-论文/量化/QLoRA.md",
+    "01-论文/量化/Qserve.md",
+    "01-论文/量化/SmoothQuant.md",
+    "01-论文/量化/Tender.md",
+    "01-论文/量化/Zeroquant.md",
+    "03-读书笔记/2024年9月5日_《金字塔原理》读书报告.md",
+    "03-读书笔记/2024年9月28日_《逻辑的力量》.md",
+    "03-读书笔记/华为饱和营销攻击法读后感.md",
+    "03-读书笔记/人性的弱点.md",
+    "03-读书笔记/深度工作.md",
+    "03-读书笔记/数字极简.md",
+    "03-读书笔记/思维导图的作用.md",
+    "03-读书笔记/做读书笔记.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -136,27 +39,30 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -171,1302 +77,580 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "fileInfo": {
-    "读书笔记/曹老师2019年论文/assets/2afecc8cdef7da02a715c0651dd9acda_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 15552,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/2afecc8cdef7da02a715c0651dd9acda_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/8e53fd82d1e3050d2c352624d3a754db_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 17664,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/8e53fd82d1e3050d2c352624d3a754db_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/0016bfccfd30573c81a873ba3dcd33aa_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 7162,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/0016bfccfd30573c81a873ba3dcd33aa_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/75e3a9552495f464139043818d995b59_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 15469,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/75e3a9552495f464139043818d995b59_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/671f80493a8e186f297aafcbc07613ad_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 11548,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/671f80493a8e186f297aafcbc07613ad_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/713c1428cb5466c1af016abe6e4d4d5f_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 29072,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/713c1428cb5466c1af016abe6e4d4d5f_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/6763d162069f4b0422e9ef79456c4bb8_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 4175,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/6763d162069f4b0422e9ef79456c4bb8_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/12191f4ba507070b53ec2980719a43d8_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 39626,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/12191f4ba507070b53ec2980719a43d8_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/086701fda35a7ff44e88bc56ed71ac6c_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 33563,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/086701fda35a7ff44e88bc56ed71ac6c_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/日志结构化合并 （LSM） 树简介 - GeeksforGeeks (2024_9_12 22_05_17).html": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1487947,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/日志结构化合并-（lsm）-树简介-geeksforgeeks-(2024_9_12-22_05_17).html",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/a58d48af663aed636c8c5460886af70c_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 3008,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/a58d48af663aed636c8c5460886af70c_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/b3b2f034bcbf0fe0cc94bd6029e7ff30_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 8728,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/b3b2f034bcbf0fe0cc94bd6029e7ff30_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/b9d799c0c72f55bdaca5a282c5adc5b5_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 39433,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/b9d799c0c72f55bdaca5a282c5adc5b5_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/bbff9ffde404abc4bab1a896611e3deb_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 36748,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/bbff9ffde404abc4bab1a896611e3deb_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/c794693ecb2673dc13277a64a5570d9d_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 13124,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/c794693ecb2673dc13277a64a5570d9d_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/ccc5d72e20be61cf945f86a82a1fa490_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 17064,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/ccc5d72e20be61cf945f86a82a1fa490_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/d926e0a66b683f833b7b9366d5fbb352_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 4545,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/d926e0a66b683f833b7b9366d5fbb352_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/f87b5943ad93d3bb43c38ddd6e856385_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 5874,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/f87b5943ad93d3bb43c38ddd6e856385_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/2024年9月12日_正文.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 67437,
-      "exportedPath": "读书笔记/曹老师2019年论文/2024年9月12日_正文.html",
-      "dependencies": [
-        "读书笔记/曹老师2019年论文/assets/c794693ecb2673dc13277a64a5570d9d_md5.png",
-        "读书笔记/曹老师2019年论文/assets/c794693ecb2673dc13277a64a5570d9d_md5.png",
-        "读书笔记/曹老师2019年论文/assets/75e3a9552495f464139043818d995b59_md5.png",
-        "读书笔记/曹老师2019年论文/assets/75e3a9552495f464139043818d995b59_md5.png",
-        "读书笔记/曹老师2019年论文/assets/086701fda35a7ff44e88bc56ed71ac6c_md5.png",
-        "读书笔记/曹老师2019年论文/assets/086701fda35a7ff44e88bc56ed71ac6c_md5.png",
-        "读书笔记/曹老师2019年论文/assets/2afecc8cdef7da02a715c0651dd9acda_md5.png",
-        "读书笔记/曹老师2019年论文/assets/2afecc8cdef7da02a715c0651dd9acda_md5.png",
-        "读书笔记/曹老师2019年论文/assets/0016bfccfd30573c81a873ba3dcd33aa_md5.png",
-        "读书笔记/曹老师2019年论文/assets/0016bfccfd30573c81a873ba3dcd33aa_md5.png",
-        "读书笔记/曹老师2019年论文/assets/f87b5943ad93d3bb43c38ddd6e856385_md5.png",
-        "读书笔记/曹老师2019年论文/assets/f87b5943ad93d3bb43c38ddd6e856385_md5.png",
-        "读书笔记/曹老师2019年论文/assets/6763d162069f4b0422e9ef79456c4bb8_md5.png",
-        "读书笔记/曹老师2019年论文/assets/6763d162069f4b0422e9ef79456c4bb8_md5.png",
-        "读书笔记/曹老师2019年论文/assets/d926e0a66b683f833b7b9366d5fbb352_md5.png",
-        "读书笔记/曹老师2019年论文/assets/d926e0a66b683f833b7b9366d5fbb352_md5.png",
-        "读书笔记/曹老师2019年论文/assets/a58d48af663aed636c8c5460886af70c_md5.png",
-        "读书笔记/曹老师2019年论文/assets/a58d48af663aed636c8c5460886af70c_md5.png",
-        "读书笔记/曹老师2019年论文/assets/b9d799c0c72f55bdaca5a282c5adc5b5_md5.png",
-        "读书笔记/曹老师2019年论文/assets/b9d799c0c72f55bdaca5a282c5adc5b5_md5.png",
-        "读书笔记/曹老师2019年论文/assets/8e53fd82d1e3050d2c352624d3a754db_md5.png",
-        "读书笔记/曹老师2019年论文/assets/8e53fd82d1e3050d2c352624d3a754db_md5.png",
-        "读书笔记/曹老师2019年论文/assets/b3b2f034bcbf0fe0cc94bd6029e7ff30_md5.png",
-        "读书笔记/曹老师2019年论文/assets/b3b2f034bcbf0fe0cc94bd6029e7ff30_md5.png",
-        "读书笔记/曹老师2019年论文/assets/12191f4ba507070b53ec2980719a43d8_md5.png",
-        "读书笔记/曹老师2019年论文/assets/12191f4ba507070b53ec2980719a43d8_md5.png",
-        "读书笔记/曹老师2019年论文/assets/ccc5d72e20be61cf945f86a82a1fa490_md5.png",
-        "读书笔记/曹老师2019年论文/assets/ccc5d72e20be61cf945f86a82a1fa490_md5.png",
-        "读书笔记/曹老师2019年论文/assets/713c1428cb5466c1af016abe6e4d4d5f_md5.png",
-        "读书笔记/曹老师2019年论文/assets/713c1428cb5466c1af016abe6e4d4d5f_md5.png",
-        "读书笔记/曹老师2019年论文/assets/bbff9ffde404abc4bab1a896611e3deb_md5.png",
-        "读书笔记/曹老师2019年论文/assets/bbff9ffde404abc4bab1a896611e3deb_md5.png",
-        "读书笔记/曹老师2019年论文/assets/671f80493a8e186f297aafcbc07613ad_md5.png",
-        "读书笔记/曹老师2019年论文/assets/671f80493a8e186f297aafcbc07613ad_md5.png"
-      ]
-    },
-    "读书笔记/曹老师2019年论文/曹老师2019年论文.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1771,
-      "exportedPath": "读书笔记/曹老师2019年论文/曹老师2019年论文.html",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/论文总结.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2795,
-      "exportedPath": "读书笔记/曹老师2019年论文/论文总结.html",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/直接存储系统.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 951,
-      "exportedPath": "读书笔记/曹老师2019年论文/直接存储系统.html",
-      "dependencies": []
-    },
-    "读书笔记/assets/Pasted image 20241004090357.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 44935,
-      "exportedPath": "读书笔记/assets/pasted-image-20241004090357.png",
-      "dependencies": []
-    },
-    "读书笔记/2024年9月5日_《金字塔原理》读书报告.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1968,
-      "exportedPath": "读书笔记/2024年9月5日_《金字塔原理》读书报告.html",
-      "dependencies": []
-    },
-    "读书笔记/2024年9月28日_《逻辑的力量》.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 8690,
-      "exportedPath": "读书笔记/2024年9月28日_《逻辑的力量》.html",
-      "dependencies": [
-        "读书笔记/assets/pasted-image-20241004090357.png",
-        "读书笔记/assets/pasted-image-20241004090357.png"
-      ]
-    },
-    "读书笔记/2024年10月4日_闲书《深度说服》.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 13,
-      "exportedPath": "读书笔记/2024年10月4日_闲书《深度说服》.html",
-      "dependencies": []
-    },
-    "读书笔记/读书笔记.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 483,
-      "exportedPath": "读书笔记/读书笔记.html",
-      "dependencies": []
-    },
-    "读书笔记/人性的弱点.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 0,
-      "exportedPath": "读书笔记/人性的弱点.html",
-      "dependencies": []
-    },
-    "读书笔记/深度工作.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 267,
-      "exportedPath": "读书笔记/深度工作.html",
-      "dependencies": []
-    },
-    "读书笔记/数字极简.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2922,
-      "exportedPath": "读书笔记/数字极简.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/@@插入当前格式化的日期时间.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 329,
-      "exportedPath": "项目/ahk学习/@@插入当前格式化的日期时间.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/2024-10-11AHK截屏.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2335,
-      "exportedPath": "项目/ahk学习/2024-10-11ahk截屏.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/2024年10月8日_关于AHK.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1561,
-      "exportedPath": "项目/ahk学习/2024年10月8日_关于ahk.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/2024年10月9日_AHK弹窗输入.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 5682,
-      "exportedPath": "项目/ahk学习/2024年10月9日_ahk弹窗输入.html",
-      "dependencies": [
-        "lib/media/pasted-image-20241009114123.png",
-        "lib/media/pasted-image-20241009114123.png",
-        "lib/media/pasted-image-20241009114325.png",
-        "lib/media/pasted-image-20241009114325.png"
-      ]
-    },
-    "项目/ahk学习/并排和可以拖动.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 664,
-      "exportedPath": "项目/ahk学习/并排和可以拖动.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/语法.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 401,
-      "exportedPath": "项目/ahk学习/语法.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/字符连接.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1923,
-      "exportedPath": "项目/ahk学习/字符连接.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/AHK处理第三方链接.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 3796,
-      "exportedPath": "项目/ahk学习/ahk处理第三方链接.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/AHK计时器.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1068,
-      "exportedPath": "项目/ahk学习/ahk计时器.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/AHK实现视频截图.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 809,
-      "exportedPath": "项目/ahk学习/ahk实现视频截图.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/AHK小型清单.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 125,
-      "exportedPath": "项目/ahk学习/ahk小型清单.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/ahk学习.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 579,
-      "exportedPath": "项目/ahk学习/ahk学习.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/DLLCALL的HOOK函数.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2178,
-      "exportedPath": "项目/ahk学习/dllcall的hook函数.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/mykeymap2.0.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 772,
-      "exportedPath": "项目/ahk学习/mykeymap2.0.html",
-      "dependencies": []
-    },
-    "项目/ahk学习/Vscode文件夹_等待按键输入.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1995,
-      "exportedPath": "项目/ahk学习/vscode文件夹_等待按键输入.html",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT2M58.516S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 75592,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt2m58.516s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT3M42.995S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 82676,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt3m42.995s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT4M30.445S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 93378,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m30.445s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT4M38.177S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 100392,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m38.177s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT6M43.473S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 28552,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt6m43.473s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT11M2.584S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 51468,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m2.584s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT11M52.009S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 84242,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m52.009s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT13M48.474S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 64160,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt13m48.474s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT16M40.239S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 91926,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt16m40.239s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT19M12.5S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 142768,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt19m12.5s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT20M10.258S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 66012,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt20m10.258s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实 _ 【深度学习第7章】PT21M23.375S.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 72032,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt21m23.375s.webp",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241011113611.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 108897,
-      "exportedPath": "项目/assets/pasted-image-20241011113611.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241011113736.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 57956,
-      "exportedPath": "项目/assets/pasted-image-20241011113736.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241011151145.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 82372,
-      "exportedPath": "项目/assets/pasted-image-20241011151145.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241011151626.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 84057,
-      "exportedPath": "项目/assets/pasted-image-20241011151626.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241011153047.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 56380,
-      "exportedPath": "项目/assets/pasted-image-20241011153047.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241011153124.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 59867,
-      "exportedPath": "项目/assets/pasted-image-20241011153124.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241011203042.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 64203,
-      "exportedPath": "项目/assets/pasted-image-20241011203042.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241012154037.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 92068,
-      "exportedPath": "项目/assets/pasted-image-20241012154037.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241012154446.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 78896,
-      "exportedPath": "项目/assets/pasted-image-20241012154446.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241012154609.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 72452,
-      "exportedPath": "项目/assets/pasted-image-20241012154609.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241012155216.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 69953,
-      "exportedPath": "项目/assets/pasted-image-20241012155216.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241012155710.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 129967,
-      "exportedPath": "项目/assets/pasted-image-20241012155710.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241012155757.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 81865,
-      "exportedPath": "项目/assets/pasted-image-20241012155757.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241013082629.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 69945,
-      "exportedPath": "项目/assets/pasted-image-20241013082629.png",
-      "dependencies": []
-    },
-    "项目/assets/Pasted image 20241013084147.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 6550,
-      "exportedPath": "项目/assets/pasted-image-20241013084147.png",
-      "dependencies": []
-    },
-    "项目/搭建Vercel的静态网页.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 178,
-      "exportedPath": "项目/搭建vercel的静态网页.html",
-      "dependencies": []
-    },
-    "项目/多路复用器.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 769,
-      "exportedPath": "项目/多路复用器.html",
-      "dependencies": []
-    },
-    "项目/李宏毅机器学习课程.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 261,
-      "exportedPath": "项目/李宏毅机器学习课程.html",
-      "dependencies": []
-    },
-    "项目/论文Attention is all you need.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 3706,
-      "exportedPath": "项目/论文attention-is-all-you-need.html",
-      "dependencies": []
-    },
-    "项目/认识Chisel.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 132,
-      "exportedPath": "项目/认识chisel.html",
-      "dependencies": []
-    },
-    "项目/阮一峰神经网络（网页）.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2328,
-      "exportedPath": "项目/阮一峰神经网络（网页）.html",
-      "dependencies": []
-    },
-    "项目/使用dufs.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2521,
-      "exportedPath": "项目/使用dufs.html",
-      "dependencies": [
-        "项目/assets/pasted-image-20241013082629.png",
-        "项目/assets/pasted-image-20241013082629.png",
-        "项目/assets/pasted-image-20241013084147.png",
-        "项目/assets/pasted-image-20241013084147.png"
-      ]
-    },
-    "项目/宿舍NFC门锁.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 546,
-      "exportedPath": "项目/宿舍nfc门锁.html",
-      "dependencies": []
-    },
-    "项目/稀疏自解码器.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2199,
-      "exportedPath": "项目/稀疏自解码器.html",
-      "dependencies": []
-    },
-    "项目/线性代数的本质视频.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 151,
-      "exportedPath": "项目/线性代数的本质视频.html",
-      "dependencies": []
-    },
-    "项目/学习Verilog语法.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 817,
-      "exportedPath": "项目/学习verilog语法.html",
-      "dependencies": []
-    },
-    "项目/自注意力机制.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2644,
-      "exportedPath": "项目/自注意力机制.html",
-      "dependencies": [
-        "项目/assets/pasted-image-20241011203042.png",
-        "项目/assets/pasted-image-20241011203042.png"
-      ]
-    },
-    "项目/always和assign的区别.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1191,
-      "exportedPath": "项目/always和assign的区别.html",
-      "dependencies": []
-    },
-    "项目/cs231n：手撕神经网络 .md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 609,
-      "exportedPath": "项目/cs231n：手撕神经网络-.md/cs231n：手撕神经网络-.md.html",
-      "dependencies": []
-    },
-    "项目/GPT是什么.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 10263,
-      "exportedPath": "项目/gpt是什么.html",
-      "dependencies": [
-        "项目/assets/pasted-image-20241011151145.png",
-        "项目/assets/pasted-image-20241011151145.png",
-        "项目/assets/pasted-image-20241011151626.png",
-        "项目/assets/pasted-image-20241011151626.png",
-        "项目/assets/pasted-image-20241011153047.png",
-        "项目/assets/pasted-image-20241011153047.png",
-        "项目/assets/pasted-image-20241011153124.png",
-        "项目/assets/pasted-image-20241011153124.png",
-        "项目/assets/pasted-image-20241012154037.png",
-        "项目/assets/pasted-image-20241012154037.png",
-        "项目/assets/pasted-image-20241012154446.png",
-        "项目/assets/pasted-image-20241012154446.png",
-        "项目/assets/pasted-image-20241012154609.png",
-        "项目/assets/pasted-image-20241012154609.png",
-        "项目/assets/pasted-image-20241012155216.png",
-        "项目/assets/pasted-image-20241012155216.png",
-        "项目/assets/pasted-image-20241012155710.png",
-        "项目/assets/pasted-image-20241012155710.png",
-        "项目/assets/pasted-image-20241012155757.png",
-        "项目/assets/pasted-image-20241012155757.png",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt2m58.516s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt2m58.516s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt3m42.995s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt3m42.995s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m30.445s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m30.445s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m38.177s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m38.177s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt6m43.473s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt6m43.473s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m2.584s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m2.584s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m52.009s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m52.009s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt13m48.474s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt13m48.474s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt16m40.239s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt16m40.239s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt19m12.5s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt19m12.5s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt20m10.258s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt20m10.258s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt21m23.375s.webp",
-        "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt21m23.375s.webp"
-      ]
-    },
-    "项目/Java学习路线.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 96,
-      "exportedPath": "项目/java学习路线.html",
-      "dependencies": []
-    },
-    "项目/Linux小简介.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1365,
-      "exportedPath": "项目/linux小简介.html",
-      "dependencies": []
-    },
-    "项目/reg和wire的区别.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 790,
-      "exportedPath": "项目/reg和wire的区别.html",
-      "dependencies": []
-    },
-    "项目/softmax函数和大模型的温度.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2292,
-      "exportedPath": "项目/softmax函数和大模型的温度.html",
-      "dependencies": []
-    },
-    "项目/Tasks的任务汇总.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 538,
-      "exportedPath": "项目/tasks的任务汇总.html",
-      "dependencies": []
-    },
-    "Quail/游戏清单/鸡械绿洲.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1856,
-      "exportedPath": "quail/游戏清单/鸡械绿洲.html",
-      "dependencies": []
-    },
-    "Quail/游戏清单/空洞骑士.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 3079,
-      "exportedPath": "quail/游戏清单/空洞骑士.html",
-      "dependencies": []
-    },
-    "Quail/游戏清单/泰拉瑞亚（原版）.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 3488,
-      "exportedPath": "quail/游戏清单/泰拉瑞亚（原版）.html",
-      "dependencies": []
-    },
-    "Quail/游戏清单/泰拉瑞亚（灾厄）.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 33,
-      "exportedPath": "quail/游戏清单/泰拉瑞亚（灾厄）.html",
-      "dependencies": []
-    },
-    "Quail/游戏清单/游戏清单.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 520,
-      "exportedPath": "quail/游戏清单/游戏清单.html",
-      "dependencies": []
-    },
-    "Quail/assets/3d8924c17480f2ce2886f134bf19c3af_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 79263,
-      "exportedPath": "quail/assets/3d8924c17480f2ce2886f134bf19c3af_md5.png",
-      "dependencies": []
-    },
-    "Quail/assets/7de22746dc07a6584d9b4eccf26cf63f_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 393370,
-      "exportedPath": "quail/assets/7de22746dc07a6584d9b4eccf26cf63f_md5.png",
-      "dependencies": []
-    },
-    "Quail/assets/d7b2480e2d6bdee007372520efa5ff00_MD5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 16571,
-      "exportedPath": "quail/assets/d7b2480e2d6bdee007372520efa5ff00_md5.png",
-      "dependencies": []
-    },
-    "Quail/assets/Pasted image 20240924162928.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 39007,
-      "exportedPath": "quail/assets/pasted-image-20240924162928.png",
-      "dependencies": []
-    },
-    "Quail/2024年9月3日_使用alist.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1610,
-      "exportedPath": "quail/2024年9月3日_使用alist.html",
-      "dependencies": [
-        "quail/assets/7de22746dc07a6584d9b4eccf26cf63f_md5.png",
-        "quail/assets/3d8924c17480f2ce2886f134bf19c3af_md5.png",
-        "quail/assets/d7b2480e2d6bdee007372520efa5ff00_md5.png"
-      ]
-    },
-    "Quail/2024年9月5日_LinuxIO栈文档笔记.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2634,
-      "exportedPath": "quail/2024年9月5日_linuxio栈文档笔记.html",
-      "dependencies": []
-    },
-    "Quail/2024年9月23日_URL缩短器的原理.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2772,
-      "exportedPath": "quail/2024年9月23日_url缩短器的原理.html",
-      "dependencies": []
-    },
-    "Quail/2024年9月24日_不同库之间的任务分工.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2036,
-      "exportedPath": "quail/2024年9月24日_不同库之间的任务分工.html",
-      "dependencies": [
-        "quail/assets/pasted-image-20240924162928.png",
-        "quail/assets/pasted-image-20240924162928.png"
-      ]
-    },
-    "Quail/2024年9月24日_沁苑宿舍也许用得着推荐.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2863,
-      "exportedPath": "quail/2024年9月24日_沁苑宿舍也许用得着推荐.html",
-      "dependencies": []
-    },
-    "Quail/2024年9月24日_学术GPT.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1300,
-      "exportedPath": "quail/2024年9月24日_学术gpt.html",
-      "dependencies": [
-        "lib/media/pasted-image-20240924090835.png",
-        "lib/media/pasted-image-20240924090835.png",
-        "lib/media/pasted-image-20240924090901.png",
-        "lib/media/pasted-image-20240924090901.png"
-      ]
-    },
-    "Quail/2024年10月5日_出行.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2554,
-      "exportedPath": "quail/2024年10月5日_出行.html",
-      "dependencies": []
-    },
-    "Quail/记一次github被封.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2526,
-      "exportedPath": "quail/记一次github被封.html",
-      "dependencies": []
-    },
-    "Quail/Quail.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1741,
-      "exportedPath": "quail/quail.html",
-      "dependencies": []
-    },
-    "Quail/Thunderbird操作学校邮箱日历的可能性.md": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 34,
-      "exportedPath": "quail/thunderbird操作学校邮箱日历的可能性.html",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/c794693ecb2673dc13277a64a5570d9d_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 13124,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/c794693ecb2673dc13277a64a5570d9d_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/75e3a9552495f464139043818d995b59_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 15469,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/75e3a9552495f464139043818d995b59_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/086701fda35a7ff44e88bc56ed71ac6c_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 33563,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/086701fda35a7ff44e88bc56ed71ac6c_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/2afecc8cdef7da02a715c0651dd9acda_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 15552,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/2afecc8cdef7da02a715c0651dd9acda_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/0016bfccfd30573c81a873ba3dcd33aa_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 7162,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/0016bfccfd30573c81a873ba3dcd33aa_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/f87b5943ad93d3bb43c38ddd6e856385_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 5874,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/f87b5943ad93d3bb43c38ddd6e856385_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/6763d162069f4b0422e9ef79456c4bb8_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 4175,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/6763d162069f4b0422e9ef79456c4bb8_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/d926e0a66b683f833b7b9366d5fbb352_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 4545,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/d926e0a66b683f833b7b9366d5fbb352_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/a58d48af663aed636c8c5460886af70c_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 3008,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/a58d48af663aed636c8c5460886af70c_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/b9d799c0c72f55bdaca5a282c5adc5b5_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 39433,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/b9d799c0c72f55bdaca5a282c5adc5b5_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/8e53fd82d1e3050d2c352624d3a754db_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 17664,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/8e53fd82d1e3050d2c352624d3a754db_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/b3b2f034bcbf0fe0cc94bd6029e7ff30_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 8728,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/b3b2f034bcbf0fe0cc94bd6029e7ff30_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/12191f4ba507070b53ec2980719a43d8_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 39626,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/12191f4ba507070b53ec2980719a43d8_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/ccc5d72e20be61cf945f86a82a1fa490_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 17064,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/ccc5d72e20be61cf945f86a82a1fa490_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/713c1428cb5466c1af016abe6e4d4d5f_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 29072,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/713c1428cb5466c1af016abe6e4d4d5f_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/bbff9ffde404abc4bab1a896611e3deb_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 36748,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/bbff9ffde404abc4bab1a896611e3deb_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/曹老师2019年论文/assets/671f80493a8e186f297aafcbc07613ad_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 11548,
-      "exportedPath": "读书笔记/曹老师2019年论文/assets/671f80493a8e186f297aafcbc07613ad_md5.png",
-      "dependencies": []
-    },
-    "读书笔记/assets/pasted-image-20241004090357.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 44935,
-      "exportedPath": "读书笔记/assets/pasted-image-20241004090357.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20241009114123.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 70125,
-      "exportedPath": "lib/media/pasted-image-20241009114123.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20241009114325.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 37283,
-      "exportedPath": "lib/media/pasted-image-20241009114325.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241013082629.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 69945,
-      "exportedPath": "项目/assets/pasted-image-20241013082629.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241013084147.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 6550,
-      "exportedPath": "项目/assets/pasted-image-20241013084147.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241011203042.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 64203,
-      "exportedPath": "项目/assets/pasted-image-20241011203042.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241011151145.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 82372,
-      "exportedPath": "项目/assets/pasted-image-20241011151145.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241011151626.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 84057,
-      "exportedPath": "项目/assets/pasted-image-20241011151626.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241011153047.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 56380,
-      "exportedPath": "项目/assets/pasted-image-20241011153047.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241011153124.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 59867,
-      "exportedPath": "项目/assets/pasted-image-20241011153124.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241012154037.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 92068,
-      "exportedPath": "项目/assets/pasted-image-20241012154037.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241012154446.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 78896,
-      "exportedPath": "项目/assets/pasted-image-20241012154446.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241012154609.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 72452,
-      "exportedPath": "项目/assets/pasted-image-20241012154609.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241012155216.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 69953,
-      "exportedPath": "项目/assets/pasted-image-20241012155216.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241012155710.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 129967,
-      "exportedPath": "项目/assets/pasted-image-20241012155710.png",
-      "dependencies": []
-    },
-    "项目/assets/pasted-image-20241012155757.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 81865,
-      "exportedPath": "项目/assets/pasted-image-20241012155757.png",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt2m58.516s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 75592,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt2m58.516s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt3m42.995s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 82676,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt3m42.995s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m30.445s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 93378,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m30.445s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m38.177s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 100392,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt4m38.177s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt6m43.473s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 28552,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt6m43.473s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m2.584s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 51468,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m2.584s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m52.009s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 84242,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt11m52.009s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt13m48.474s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 64160,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt13m48.474s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt16m40.239s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 91926,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt16m40.239s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt19m12.5s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 142768,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt19m12.5s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt20m10.258s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 66012,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt20m10.258s.webp",
-      "dependencies": []
-    },
-    "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt21m23.375s.webp": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 72032,
-      "exportedPath": "项目/assets/【官方双语】直观解释大语言模型如何储存事实-_-【深度学习第7章】pt21m23.375s.webp",
-      "dependencies": []
-    },
-    "quail/assets/7de22746dc07a6584d9b4eccf26cf63f_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 393370,
-      "exportedPath": "quail/assets/7de22746dc07a6584d9b4eccf26cf63f_md5.png",
-      "dependencies": []
-    },
-    "quail/assets/3d8924c17480f2ce2886f134bf19c3af_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 79263,
-      "exportedPath": "quail/assets/3d8924c17480f2ce2886f134bf19c3af_md5.png",
-      "dependencies": []
-    },
-    "quail/assets/d7b2480e2d6bdee007372520efa5ff00_md5.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 16571,
-      "exportedPath": "quail/assets/d7b2480e2d6bdee007372520efa5ff00_md5.png",
-      "dependencies": []
-    },
-    "quail/assets/pasted-image-20240924162928.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 39007,
-      "exportedPath": "quail/assets/pasted-image-20240924162928.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240924090835.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 56842,
-      "exportedPath": "lib/media/pasted-image-20240924090835.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20240924090901.png": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 208549,
-      "exportedPath": "lib/media/pasted-image-20240924090901.png",
-      "dependencies": []
-    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732676033807,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
-    "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 279,
-      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1732675674494,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 47176,
+      "modifiedTime": 1732675674494,
+      "sourceSize": 127397,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 2971,
+      "modifiedTime": 1732675674494,
+      "sourceSize": 11191,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 130471,
+      "modifiedTime": 1732675674494,
+      "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
-    "lib/styles/other-plugins.css": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 18775,
-      "exportedPath": "lib/styles/other-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/theme.css": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 365294,
-      "exportedPath": "lib/styles/theme.css",
-      "dependencies": []
-    },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 709,
+      "modifiedTime": 1732675674494,
+      "sourceSize": 475,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 7843,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1728801551354,
+      "modifiedTime": 1732675674494,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1728801551354,
-      "sourceSize": 1166,
+      "modifiedTime": 1732675674494,
+      "sourceSize": 25191,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "01-论文/量化/Atom.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 2002,
+      "exportedPath": "01-论文/量化/Atom.html",
+      "dependencies": []
+    },
+    "01-论文/量化/AWQ.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 4204,
+      "exportedPath": "01-论文/量化/AWQ.html",
+      "dependencies": []
+    },
+    "01-论文/量化/GPTQ.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 59,
+      "exportedPath": "01-论文/量化/GPTQ.html",
+      "dependencies": []
+    },
+    "01-论文/量化/KIVI.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 863,
+      "exportedPath": "01-论文/量化/KIVI.html",
+      "dependencies": []
+    },
+    "01-论文/量化/LLM.int8().md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 1521,
+      "exportedPath": "01-论文/量化/LLM.int8().html",
+      "dependencies": []
+    },
+    "01-论文/量化/OBC（高效压缩）.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 853,
+      "exportedPath": "01-论文/量化/OBC（高效压缩）.html",
+      "dependencies": []
+    },
+    "01-论文/量化/QLoRA.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 630,
+      "exportedPath": "01-论文/量化/QLoRA.html",
+      "dependencies": []
+    },
+    "01-论文/量化/Qserve.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 4658,
+      "exportedPath": "01-论文/量化/Qserve.html",
+      "dependencies": []
+    },
+    "01-论文/量化/SmoothQuant.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 10775,
+      "exportedPath": "01-论文/量化/SmoothQuant.html",
+      "dependencies": []
+    },
+    "01-论文/量化/Tender.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 3366,
+      "exportedPath": "01-论文/量化/Tender.html",
+      "dependencies": []
+    },
+    "01-论文/量化/Zeroquant.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 1144,
+      "exportedPath": "01-论文/量化/Zeroquant.html",
+      "dependencies": []
+    },
+    "03-读书笔记/2024年9月5日_《金字塔原理》读书报告.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 2011,
+      "exportedPath": "03-读书笔记/2024年9月5日_《金字塔原理》读书报告.html",
+      "dependencies": []
+    },
+    "03-读书笔记/2024年9月28日_《逻辑的力量》.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 8672,
+      "exportedPath": "03-读书笔记/2024年9月28日_《逻辑的力量》.html",
+      "dependencies": []
+    },
+    "03-读书笔记/华为饱和营销攻击法读后感.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 1142,
+      "exportedPath": "03-读书笔记/华为饱和营销攻击法读后感.html",
+      "dependencies": []
+    },
+    "03-读书笔记/人性的弱点.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 1451,
+      "exportedPath": "03-读书笔记/人性的弱点.html",
+      "dependencies": []
+    },
+    "03-读书笔记/深度工作.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 308,
+      "exportedPath": "03-读书笔记/深度工作.html",
+      "dependencies": []
+    },
+    "03-读书笔记/数字极简.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 2931,
+      "exportedPath": "03-读书笔记/数字极简.html",
+      "dependencies": []
+    },
+    "03-读书笔记/思维导图的作用.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 1062,
+      "exportedPath": "03-读书笔记/思维导图的作用.html",
+      "dependencies": []
+    },
+    "03-读书笔记/做读书笔记.md": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 611,
+      "exportedPath": "03-读书笔记/做读书笔记.html",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1732676033807,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     }
   }
