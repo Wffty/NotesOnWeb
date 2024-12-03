@@ -1,6 +1,6 @@
 {
   "vaultName": "主仓库",
-  "lastExport": 1733194910494,
+  "lastExport": 1733194992582,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -35,6 +35,7 @@
     "03-读书笔记/思维导图的作用.md",
     "03-读书笔记/鱼没有脚.md",
     "03-读书笔记/做读书笔记.md",
+    "index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -118,85 +119,85 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -418,309 +419,315 @@
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "01-论文/1bit LLMS.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 854,
       "exportedPath": "01-论文/1bit LLMS.html",
       "dependencies": []
     },
     "01-论文/模型量化.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 141,
       "exportedPath": "01-论文/模型量化.html",
       "dependencies": []
     },
     "01-论文/无损压缩.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 141,
       "exportedPath": "01-论文/无损压缩.html",
       "dependencies": []
     },
     "01-论文/异常感知（论文原文）.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1475,
       "exportedPath": "01-论文/异常感知（论文原文）.html",
       "dependencies": []
     },
     "01-论文/Atom.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 2189,
       "exportedPath": "01-论文/Atom.html",
       "dependencies": []
     },
     "01-论文/AWQ.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 4204,
       "exportedPath": "01-论文/AWQ.html",
       "dependencies": []
     },
     "01-论文/GPTQ.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 221,
       "exportedPath": "01-论文/GPTQ.html",
       "dependencies": []
     },
     "01-论文/GPTQ（原文）.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1974,
       "exportedPath": "01-论文/GPTQ（原文）.html",
       "dependencies": []
     },
     "01-论文/KIVI.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 4779,
       "exportedPath": "01-论文/KIVI.html",
       "dependencies": []
     },
     "01-论文/KVquant.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1131,
       "exportedPath": "01-论文/KVquant.html",
       "dependencies": []
     },
     "01-论文/LLM.int8().md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1521,
       "exportedPath": "01-论文/LLM.int8().html",
       "dependencies": []
     },
     "01-论文/nnzip.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 74,
       "exportedPath": "01-论文/nnzip.html",
       "dependencies": []
     },
     "01-论文/OBC（高效压缩）.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 853,
       "exportedPath": "01-论文/OBC（高效压缩）.html",
       "dependencies": []
     },
     "01-论文/OLAccel.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 2162,
       "exportedPath": "01-论文/OLAccel.html",
       "dependencies": []
     },
     "01-论文/QLoRA.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 649,
       "exportedPath": "01-论文/QLoRA.html",
       "dependencies": []
     },
     "01-论文/Qserve.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 7545,
       "exportedPath": "01-论文/Qserve.html",
       "dependencies": []
     },
     "01-论文/Qserve（原文）.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1707,
       "exportedPath": "01-论文/Qserve（原文）.html",
       "dependencies": []
     },
     "01-论文/SmoothQuant.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 10775,
       "exportedPath": "01-论文/SmoothQuant.html",
       "dependencies": []
     },
     "01-论文/Tender.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 5659,
       "exportedPath": "01-论文/Tender.html",
       "dependencies": []
     },
     "01-论文/Zeroquant.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1144,
       "exportedPath": "01-论文/Zeroquant.html",
       "dependencies": []
     },
     "03-读书笔记/2024年9月5日_《金字塔原理》读书报告.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 2011,
       "exportedPath": "03-读书笔记/2024年9月5日_《金字塔原理》读书报告.html",
       "dependencies": []
     },
     "03-读书笔记/2024年9月28日_《逻辑的力量》.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 8672,
       "exportedPath": "03-读书笔记/2024年9月28日_《逻辑的力量》.html",
       "dependencies": []
     },
     "03-读书笔记/华为饱和营销攻击法读后感.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1142,
       "exportedPath": "03-读书笔记/华为饱和营销攻击法读后感.html",
       "dependencies": []
     },
     "03-读书笔记/人性的弱点.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1451,
       "exportedPath": "03-读书笔记/人性的弱点.html",
       "dependencies": []
     },
     "03-读书笔记/深度工作.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 308,
       "exportedPath": "03-读书笔记/深度工作.html",
       "dependencies": []
     },
     "03-读书笔记/数字极简.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 2931,
       "exportedPath": "03-读书笔记/数字极简.html",
       "dependencies": []
     },
     "03-读书笔记/思维导图的作用.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 1062,
       "exportedPath": "03-读书笔记/思维导图的作用.html",
       "dependencies": []
     },
     "03-读书笔记/鱼没有脚.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 70,
       "exportedPath": "03-读书笔记/鱼没有脚.html",
       "dependencies": []
     },
     "03-读书笔记/做读书笔记.md": {
-      "modifiedTime": 1733194910494,
+      "modifiedTime": 1733194992582,
       "sourceSize": 611,
       "exportedPath": "03-读书笔记/做读书笔记.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1733194992582,
+      "sourceSize": 138,
+      "exportedPath": "index.html",
       "dependencies": []
     }
   }
