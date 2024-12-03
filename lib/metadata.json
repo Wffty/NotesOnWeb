@@ -1,199 +1,11 @@
 {
   "vaultName": "主仓库",
-  "lastExport": 1733191597194,
+  "lastExport": 1733194910494,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "00-项目/机器学习&神经网络等/大模型/2.3-图解BERT.md",
-    "00-项目/机器学习&神经网络等/大模型/层标准化（LayerNorm）.md",
-    "00-项目/机器学习&神经网络等/大模型/BatchNorm-差异-LayerNorm.md",
-    "00-项目/机器学习&神经网络等/大模型/大模型-混合精度.md",
-    "00-项目/机器学习&神经网络等/大模型/连续词袋.md",
-    "00-项目/机器学习&神经网络等/大模型/两种目标-关于-知识蒸馏.md",
-    "00-项目/机器学习&神经网络等/大模型/量化的参数和步骤.md",
-    "00-项目/机器学习&神经网络等/大模型/量化感知训练(QAT).md",
-    "00-项目/机器学习&神经网络等/大模型/模拟量化（伪量化）的流程.md",
-    "00-项目/机器学习&神经网络等/大模型/算数强度.md",
-    "00-项目/机器学习&神经网络等/大模型/通才模型.md",
-    "00-项目/机器学习&神经网络等/大模型/屋顶线模型（Roofline）.md",
-    "00-项目/机器学习&神经网络等/大模型/希腊字母表.md",
-    "00-项目/机器学习&神经网络等/大模型/系统后端.md",
-    "00-项目/机器学习&神经网络等/大模型/知识蒸馏.md",
-    "00-项目/机器学习&神经网络等/大模型/自注意力的关联性.md",
-    "00-项目/机器学习&神经网络等/大模型/组查询注意力（GQA）.md",
-    "00-项目/机器学习&神经网络等/大模型/BERT-应用-微调.md",
-    "00-项目/机器学习&神经网络等/大模型/corner case.md",
-    "00-项目/机器学习&神经网络等/大模型/dropout.md",
-    "00-项目/机器学习&神经网络等/大模型/EDP-困惑度.md",
-    "00-项目/机器学习&神经网络等/大模型/Flash Attention.md",
-    "00-项目/机器学习&神经网络等/大模型/GPT是什么.md",
-    "00-项目/机器学习&神经网络等/大模型/Hessian逆矩阵.md",
-    "00-项目/机器学习&神经网络等/大模型/KL散度.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/鞍点.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/1-Lipschitz函数.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/参数共享.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/测试-应用-移动平均.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/等距（独热向量）.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/独热向量.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/非凸优化问题.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/感受野.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/更新-区别-回合.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/汇聚（池化）.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/交叉熵-差异-均方损失.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/交叉熵-应用-分类.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/解决过拟合问题.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/卷积层.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/空间变换层（简介）.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/滤波器.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/模型偏差.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/模型训练-k折交叉验证.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/全连接网络.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/随机梯度下降.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/特征归一化.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/下采样.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/学习率退火.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/噪声（机器学习）.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/正定和负定矩阵.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自然语言理解.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自适应学习率-应用-回归优化.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自注意力-差异-循环神经网络.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自注意力-关系-卷积神经网络.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/RNN-应用-CTC技术.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/Transformer-应用-多头注意力.md",
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/Transformer-应用-QKV计算的模式.md",
-    "00-项目/机器学习&神经网络等/量化/SmoothQuant的量化深入探究.md",
-    "00-项目/机器学习&神经网络等/量化/Fine-tuning（大模型微调）.md",
-    "00-项目/机器学习&神经网络等/量化/打包权重.md",
-    "00-项目/机器学习&神经网络等/量化/即时（动态）反量化.md",
-    "00-项目/机器学习&神经网络等/量化/跨层均衡.md",
-    "00-项目/机器学习&神经网络等/量化/量化-基础.md",
-    "00-项目/机器学习&神经网络等/量化/量化的粒度.md",
-    "00-项目/机器学习&神经网络等/量化/量化感知训练（Quantization-aware-training）.md",
-    "00-项目/机器学习&神经网络等/量化/量化-量化技术解析.md",
-    "00-项目/机器学习&神经网络等/量化/量化误差敏感.md",
-    "00-项目/机器学习&神经网络等/量化/模型压缩.todo.md",
-    "00-项目/机器学习&神经网络等/量化/Batch Normalization层.md",
-    "00-项目/机器学习&神经网络等/量化/行分块技术.md",
-    "00-项目/机器学习&神经网络等/量化/ATOM代码实践（知乎）.md",
-    "00-项目/机器学习&神经网络等/量化/GEMV-关系-MAC.md",
-    "00-项目/机器学习&神经网络等/量化/Minmax量化.md",
-    "00-项目/机器学习&神经网络等/量化/PTQ的瓶颈诊断步骤.md",
-    "00-项目/机器学习&神经网络等/量化/量化网络（Quantizing Networks）.md",
-    "00-项目/机器学习&神经网络等/深度学习/计算感知的权重重排.md",
-    "00-项目/机器学习&神经网络等/深度学习/高温蒸馏（深度学习）.md",
-    "00-项目/机器学习&神经网络等/深度学习/梯度检查点.md",
-    "00-项目/机器学习&神经网络等/深度学习/位置编码模型-RoPE和Alibi.md",
-    "00-项目/机器学习&神经网络等/深度学习/自回归-对比-自编码语言.md",
-    "00-项目/机器学习&神经网络等/深度学习/自注意力的变形.md",
-    "00-项目/机器学习&神经网络等/深度学习/Attention-影响-seq2seq模型.md",
-    "00-项目/机器学习&神经网络等/深度学习/BERT-应用-cls标记.md",
-    "00-项目/机器学习&神经网络等/深度学习/GPT-知识点.md",
-    "00-项目/机器学习&神经网络等/深度学习/CNN、RNN、Transformer的区别.md",
-    "00-项目/机器学习&神经网络等/深度学习/MLP.md",
-    "00-项目/机器学习&神经网络等/深度学习/pipeline和baseline的含义.md",
-    "00-项目/机器学习&神经网络等/深度学习/torch.no_grad().md",
-    "00-项目/机器学习&神经网络等/词嵌入.md",
-    "00-项目/机器学习&神经网络等/单尾分布.md",
-    "00-项目/机器学习&神经网络等/高带宽内存 (HBM).md",
-    "00-项目/机器学习&神经网络等/黑塞矩阵（Hessian）.md",
-    "00-项目/机器学习&神经网络等/流形.md",
-    "00-项目/机器学习&神经网络等/交叉熵.md",
-    "00-项目/机器学习&神经网络等/矩阵分解.md",
-    "00-项目/机器学习&神经网络等/脉动阵列.md",
-    "00-项目/机器学习&神经网络等/三代神经网络的发展.md",
-    "00-项目/机器学习&神经网络等/三值系统（Ternary value）.md",
-    "00-项目/机器学习&神经网络等/算子融合.md",
-    "00-项目/机器学习&神经网络等/稀疏-N比M细粒度结构化稀疏.md",
-    "00-项目/机器学习&神经网络等/梯度消失.md",
-    "00-项目/机器学习&神经网络等/退化为随机性能.md",
-    "00-项目/机器学习&神经网络等/脱机处理(offline).md",
-    "00-项目/机器学习&神经网络等/误差表面.md",
-    "00-项目/机器学习&神经网络等/误差表面崎岖.md",
-    "00-项目/机器学习&神经网络等/下游任务.md",
-    "00-项目/机器学习&神经网络等/消融实验.md",
-    "00-项目/机器学习&神经网络等/协变量偏移.md",
-    "00-项目/机器学习&神经网络等/长短期神经网络.md",
-    "00-项目/机器学习&神经网络等/专家混合.md",
-    "00-项目/机器学习&神经网络等/Cholesky 分解.md",
-    "00-项目/机器学习&神经网络等/clamp函数.md",
-    "00-项目/机器学习&神经网络等/GELU激活函数.md",
-    "00-项目/机器学习&神经网络等/hook.md",
-    "00-项目/机器学习&神经网络等/Positional embedding-作用-Transformer.md",
-    "00-项目/机器学习&神经网络等/Wasserstein距离.md",
-    "00-项目/aardio/网址.md",
-    "00-项目/ahk/2024年10月8日_关于AHK.md",
-    "00-项目/ahk/2024年10月9日_AHK弹窗输入.md",
-    "00-项目/ahk/并排和可以拖动.md",
-    "00-项目/ahk/处理第三方链接（AHK）.md",
-    "00-项目/ahk/计时器.md",
-    "00-项目/ahk/简单修改的ahk代码.md",
-    "00-项目/ahk/外部插入日历清单.md",
-    "00-项目/ahk/字符连接（AHK）.md",
-    "00-项目/ahk/ahk文本框输入文件输出.md",
-    "00-项目/Csharp/变量作用域.md",
-    "00-项目/Csharp/基本语法和数据类型.md",
-    "00-项目/Csharp/类型转换.md",
-    "00-项目/CUDA/便笺存储器(SPM).md",
-    "00-项目/CUDA/内核（GPU）.md",
-    "00-项目/CUDA/推荐GPU科普：深入GPU硬件架构及运行机制.md",
-    "00-项目/CUDA/CUDA-应用-CTA.md",
-    "00-项目/CUDA/Hardware Efficiency.md",
-    "00-项目/CUDA/GPU 渲染管线与着色器.md",
-    "00-项目/CUDA/shader的概念.md",
-    "00-项目/HDLBits/边缘检测.md",
-    "00-项目/HDLBits/256位打包的多位选择器.md",
-    "00-项目/HDLBits/多路复用器.md",
-    "00-项目/HDLBits/加减法器.md",
-    "00-项目/HDLBits/逻辑和模组生成.md",
-    "00-项目/HDLBits/如何进行边缘检测.md",
-    "00-项目/HDLBits/时序赋值和结构赋值.md",
-    "00-项目/HDLBits/实例化要在模块的顶层进行.md",
-    "00-项目/HDLBits/一位加法器.md",
-    "00-项目/HDLBits/在verilog里使用int.md",
-    "00-项目/HDLBits/HDLBits--(Verilog在线学习)--94--97 Edge Detector --HM2K92C.md",
-    "00-项目/HDLBits/HDLBits：在线学习 Verilog （二十四 · Problem 115-119） - 知乎-HM2358E.md",
-    "00-项目/HDLBits/hdlbits十进制计数器.md",
-    "00-项目/HDLBits/POS和SOP的含义.md",
-    "00-项目/HDLBits/Verilog变量位置引发的错误.md",
-    "00-项目/Python/Pytorch/model.eval().md",
-    "00-项目/Python/Pytorch/Pytorch中,None的用法解析.md",
-    "00-项目/Python/定制类.md",
-    "00-项目/Python/多态.md",
-    "00-项目/Python/访问限制.md",
-    "00-项目/Python/矩阵增加维度.md",
-    "00-项目/Python/列表生成式.md",
-    "00-项目/Python/使用type()创建class的方法.md",
-    "00-项目/Python/装饰器.md",
-    "00-项目/Python/Lambda表达式匿名函数.md",
-    "00-项目/Python/partial().md",
-    "00-项目/Triton/多面体编译.md",
-    "00-项目/Triton/triton_language.range  Triton 中文站.md",
-    "00-项目/Triton/triton_language.range.md",
-    "00-项目/Verilog/序列检测.md",
-    "00-项目/Verilog/组合逻辑时序逻辑阻塞非阻塞_always组合逻辑.md",
-    "00-项目/Web/闭包.md",
-    "00-项目/Web/变量提升.md",
-    "00-项目/Web/变量域和函数捕获机制.md",
-    "00-项目/Web/创建对象.md",
-    "00-项目/Web/判断对象自身属性.md",
-    "00-项目/Web/异步执行和回调函数.md",
-    "00-项目/Web/原型继承.md",
-    "00-项目/Web/装饰器.md",
-    "00-项目/Web/class继承.md",
-    "00-项目/Web/DataviewJS的点击计数器.md",
-    "00-项目/Web/JS数组的软复制和硬复制.md",
-    "00-项目/Web/异步调用-应用-Promise.md",
-    "00-项目/Web/sort()方法.md",
-    "00-项目/Web/this的绑定对象.md",
-    "00-项目/Web/this的错误绑定和修复.md",
-    "00-项目/搭建Vercel的静态网页.md",
-    "00-项目/哈马达乘积.md",
-    "00-项目/基于Obsidian的清单展示视图演变.md",
-    "00-项目/双曲正切函数.md",
-    "00-项目/项目的布局.md",
-    "00-项目/悬垂指针.md",
     "01-论文/1bit LLMS.md",
     "01-论文/模型量化.md",
     "01-论文/无损压缩.md",
@@ -214,7 +26,15 @@
     "01-论文/SmoothQuant.md",
     "01-论文/Tender.md",
     "01-论文/Zeroquant.md",
-    "index.md",
+    "03-读书笔记/2024年9月5日_《金字塔原理》读书报告.md",
+    "03-读书笔记/2024年9月28日_《逻辑的力量》.md",
+    "03-读书笔记/华为饱和营销攻击法读后感.md",
+    "03-读书笔记/人性的弱点.md",
+    "03-读书笔记/深度工作.md",
+    "03-读书笔记/数字极简.md",
+    "03-读书笔记/思维导图的作用.md",
+    "03-读书笔记/鱼没有脚.md",
+    "03-读书笔记/做读书笔记.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -298,85 +118,85 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -598,1389 +418,309 @@
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
-    "00-项目/机器学习&神经网络等/大模型/2.3-图解BERT.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4121,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/2.3-图解BERT.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/层标准化（LayerNorm）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 251,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/层标准化（LayerNorm）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/BatchNorm-差异-LayerNorm.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 11656,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/BatchNorm-差异-LayerNorm.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/大模型-混合精度.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 7853,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/大模型-混合精度.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/连续词袋.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 969,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/连续词袋.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/两种目标-关于-知识蒸馏.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1653,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/两种目标-关于-知识蒸馏.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/量化的参数和步骤.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 5592,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/量化的参数和步骤.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/量化感知训练(QAT).md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 332,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/量化感知训练(QAT).html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/模拟量化（伪量化）的流程.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1043,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/模拟量化（伪量化）的流程.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/算数强度.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1353,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/算数强度.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/通才模型.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 997,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/通才模型.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/屋顶线模型（Roofline）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2778,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/屋顶线模型（Roofline）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/希腊字母表.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 214,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/希腊字母表.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/系统后端.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1014,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/系统后端.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/知识蒸馏.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 15629,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/知识蒸馏.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/自注意力的关联性.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1677,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/自注意力的关联性.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/组查询注意力（GQA）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1376,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/组查询注意力（GQA）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/BERT-应用-微调.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 814,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/BERT-应用-微调.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/corner case.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 321,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/corner case.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/dropout.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1674,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/dropout.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/EDP-困惑度.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2618,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/EDP-困惑度.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/Flash Attention.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2363,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/Flash Attention.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/GPT是什么.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 10005,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/GPT是什么.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/Hessian逆矩阵.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2372,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/Hessian逆矩阵.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/大模型/KL散度.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2086,
-      "exportedPath": "00-项目/机器学习&神经网络等/大模型/KL散度.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/鞍点.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 5518,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/鞍点.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/1-Lipschitz函数.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 939,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/1-Lipschitz函数.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/参数共享.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1361,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/参数共享.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/测试-应用-移动平均.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 935,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/测试-应用-移动平均.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/等距（独热向量）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1384,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/等距（独热向量）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/独热向量.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1748,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/独热向量.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/非凸优化问题.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 524,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/非凸优化问题.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/感受野.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1836,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/感受野.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/更新-区别-回合.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1059,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/更新-区别-回合.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/汇聚（池化）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 480,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/汇聚（池化）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/交叉熵-差异-均方损失.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1166,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/交叉熵-差异-均方损失.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/交叉熵-应用-分类.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 97,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/交叉熵-应用-分类.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/解决过拟合问题.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2577,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/解决过拟合问题.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/卷积层.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1062,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/卷积层.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/空间变换层（简介）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1559,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/空间变换层（简介）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/滤波器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4276,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/滤波器.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/模型偏差.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 850,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/模型偏差.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/模型训练-k折交叉验证.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 466,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/模型训练-k折交叉验证.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/全连接网络.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2917,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/全连接网络.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/随机梯度下降.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 753,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/随机梯度下降.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/特征归一化.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1050,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/特征归一化.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/下采样.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4133,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/下采样.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/学习率退火.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1641,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/学习率退火.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/噪声（机器学习）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 191,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/噪声（机器学习）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/正定和负定矩阵.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 284,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/正定和负定矩阵.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自然语言理解.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 682,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自然语言理解.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自适应学习率-应用-回归优化.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1592,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自适应学习率-应用-回归优化.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自注意力-差异-循环神经网络.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1358,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自注意力-差异-循环神经网络.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自注意力-关系-卷积神经网络.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2056,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/自注意力-关系-卷积神经网络.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/RNN-应用-CTC技术.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2077,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/RNN-应用-CTC技术.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/Transformer-应用-多头注意力.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 10546,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/Transformer-应用-多头注意力.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/李宏毅机器学习课程/Transformer-应用-QKV计算的模式.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2599,
-      "exportedPath": "00-项目/机器学习&神经网络等/李宏毅机器学习课程/Transformer-应用-QKV计算的模式.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/SmoothQuant的量化深入探究.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 24217,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/SmoothQuant的量化深入探究.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/Fine-tuning（大模型微调）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 8599,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/Fine-tuning（大模型微调）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/打包权重.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 651,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/打包权重.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/即时（动态）反量化.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 604,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/即时（动态）反量化.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/跨层均衡.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 801,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/跨层均衡.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/量化-基础.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1775,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/量化-基础.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/量化的粒度.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4099,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/量化的粒度.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/量化感知训练（Quantization-aware-training）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 26791,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/量化感知训练（Quantization-aware-training）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/量化-量化技术解析.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 36070,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/量化-量化技术解析.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/量化误差敏感.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 3271,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/量化误差敏感.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/模型压缩.todo.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1196,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/模型压缩.todo.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/Batch Normalization层.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 3906,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/Batch Normalization层.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/行分块技术.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 324,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/行分块技术.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/ATOM代码实践（知乎）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 34571,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/ATOM代码实践（知乎）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/GEMV-关系-MAC.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 3174,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/GEMV-关系-MAC.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/Minmax量化.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4464,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/Minmax量化.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/PTQ的瓶颈诊断步骤.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 3198,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/PTQ的瓶颈诊断步骤.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/量化/量化网络（Quantizing Networks）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 7950,
-      "exportedPath": "00-项目/机器学习&神经网络等/量化/量化网络（Quantizing Networks）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/计算感知的权重重排.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2226,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/计算感知的权重重排.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/高温蒸馏（深度学习）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 23239,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/高温蒸馏（深度学习）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/梯度检查点.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 3013,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/梯度检查点.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/位置编码模型-RoPE和Alibi.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2375,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/位置编码模型-RoPE和Alibi.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/自回归-对比-自编码语言.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4262,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/自回归-对比-自编码语言.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/自注意力的变形.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1570,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/自注意力的变形.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/Attention-影响-seq2seq模型.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2077,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/Attention-影响-seq2seq模型.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/BERT-应用-cls标记.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 328,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/BERT-应用-cls标记.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/GPT-知识点.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 10105,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/GPT-知识点.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/CNN、RNN、Transformer的区别.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4560,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/CNN、RNN、Transformer的区别.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/MLP.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2096,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/MLP.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/pipeline和baseline的含义.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2813,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/pipeline和baseline的含义.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/深度学习/torch.no_grad().md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 457,
-      "exportedPath": "00-项目/机器学习&神经网络等/深度学习/torch.no_grad().html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/词嵌入.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2095,
-      "exportedPath": "00-项目/机器学习&神经网络等/词嵌入.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/单尾分布.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1804,
-      "exportedPath": "00-项目/机器学习&神经网络等/单尾分布.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/高带宽内存 (HBM).md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 940,
-      "exportedPath": "00-项目/机器学习&神经网络等/高带宽内存 (HBM).html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/黑塞矩阵（Hessian）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 21642,
-      "exportedPath": "00-项目/机器学习&神经网络等/黑塞矩阵（Hessian）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/流形.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 21434,
-      "exportedPath": "00-项目/机器学习&神经网络等/流形.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/交叉熵.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2142,
-      "exportedPath": "00-项目/机器学习&神经网络等/交叉熵.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/矩阵分解.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 23253,
-      "exportedPath": "00-项目/机器学习&神经网络等/矩阵分解.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/脉动阵列.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 16136,
-      "exportedPath": "00-项目/机器学习&神经网络等/脉动阵列.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/三代神经网络的发展.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1305,
-      "exportedPath": "00-项目/机器学习&神经网络等/三代神经网络的发展.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/三值系统（Ternary value）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1114,
-      "exportedPath": "00-项目/机器学习&神经网络等/三值系统（Ternary value）.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/算子融合.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2991,
-      "exportedPath": "00-项目/机器学习&神经网络等/算子融合.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/稀疏-N比M细粒度结构化稀疏.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 5023,
-      "exportedPath": "00-项目/机器学习&神经网络等/稀疏-N比M细粒度结构化稀疏.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/梯度消失.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2609,
-      "exportedPath": "00-项目/机器学习&神经网络等/梯度消失.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/退化为随机性能.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1345,
-      "exportedPath": "00-项目/机器学习&神经网络等/退化为随机性能.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/脱机处理(offline).md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2081,
-      "exportedPath": "00-项目/机器学习&神经网络等/脱机处理(offline).html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/误差表面.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 401,
-      "exportedPath": "00-项目/机器学习&神经网络等/误差表面.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/误差表面崎岖.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1771,
-      "exportedPath": "00-项目/机器学习&神经网络等/误差表面崎岖.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/下游任务.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 814,
-      "exportedPath": "00-项目/机器学习&神经网络等/下游任务.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/消融实验.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1110,
-      "exportedPath": "00-项目/机器学习&神经网络等/消融实验.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/协变量偏移.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1347,
-      "exportedPath": "00-项目/机器学习&神经网络等/协变量偏移.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/长短期神经网络.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 3188,
-      "exportedPath": "00-项目/机器学习&神经网络等/长短期神经网络.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/专家混合.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1728,
-      "exportedPath": "00-项目/机器学习&神经网络等/专家混合.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/Cholesky 分解.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 3361,
-      "exportedPath": "00-项目/机器学习&神经网络等/Cholesky 分解.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/clamp函数.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 939,
-      "exportedPath": "00-项目/机器学习&神经网络等/clamp函数.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/GELU激活函数.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 5233,
-      "exportedPath": "00-项目/机器学习&神经网络等/GELU激活函数.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/hook.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2833,
-      "exportedPath": "00-项目/机器学习&神经网络等/hook.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/Positional embedding-作用-Transformer.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1615,
-      "exportedPath": "00-项目/机器学习&神经网络等/Positional embedding-作用-Transformer.html",
-      "dependencies": []
-    },
-    "00-项目/机器学习&神经网络等/Wasserstein距离.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 8833,
-      "exportedPath": "00-项目/机器学习&神经网络等/Wasserstein距离.html",
-      "dependencies": []
-    },
-    "00-项目/aardio/网址.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 323,
-      "exportedPath": "00-项目/aardio/网址.html",
-      "dependencies": []
-    },
-    "00-项目/ahk/2024年10月8日_关于AHK.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2441,
-      "exportedPath": "00-项目/ahk/2024年10月8日_关于AHK.html",
-      "dependencies": []
-    },
-    "00-项目/ahk/2024年10月9日_AHK弹窗输入.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 5797,
-      "exportedPath": "00-项目/ahk/2024年10月9日_AHK弹窗输入.html",
-      "dependencies": []
-    },
-    "00-项目/ahk/并排和可以拖动.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 791,
-      "exportedPath": "00-项目/ahk/并排和可以拖动.html",
-      "dependencies": []
-    },
-    "00-项目/ahk/处理第三方链接（AHK）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 3867,
-      "exportedPath": "00-项目/ahk/处理第三方链接（AHK）.html",
-      "dependencies": []
-    },
-    "00-项目/ahk/计时器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 967,
-      "exportedPath": "00-项目/ahk/计时器.html",
-      "dependencies": []
-    },
-    "00-项目/ahk/简单修改的ahk代码.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 524,
-      "exportedPath": "00-项目/ahk/简单修改的ahk代码.html",
-      "dependencies": []
-    },
-    "00-项目/ahk/外部插入日历清单.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1231,
-      "exportedPath": "00-项目/ahk/外部插入日历清单.html",
-      "dependencies": []
-    },
-    "00-项目/ahk/字符连接（AHK）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1984,
-      "exportedPath": "00-项目/ahk/字符连接（AHK）.html",
-      "dependencies": []
-    },
-    "00-项目/ahk/ahk文本框输入文件输出.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2559,
-      "exportedPath": "00-项目/ahk/ahk文本框输入文件输出.html",
-      "dependencies": []
-    },
-    "00-项目/Csharp/变量作用域.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 7137,
-      "exportedPath": "00-项目/Csharp/变量作用域.html",
-      "dependencies": []
-    },
-    "00-项目/Csharp/基本语法和数据类型.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 14732,
-      "exportedPath": "00-项目/Csharp/基本语法和数据类型.html",
-      "dependencies": []
-    },
-    "00-项目/Csharp/类型转换.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 18228,
-      "exportedPath": "00-项目/Csharp/类型转换.html",
-      "dependencies": []
-    },
-    "00-项目/CUDA/便笺存储器(SPM).md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1268,
-      "exportedPath": "00-项目/CUDA/便笺存储器(SPM).html",
-      "dependencies": []
-    },
-    "00-项目/CUDA/内核（GPU）.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 107,
-      "exportedPath": "00-项目/CUDA/内核（GPU）.html",
-      "dependencies": []
-    },
-    "00-项目/CUDA/推荐GPU科普：深入GPU硬件架构及运行机制.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 58735,
-      "exportedPath": "00-项目/CUDA/推荐GPU科普：深入GPU硬件架构及运行机制.html",
-      "dependencies": []
-    },
-    "00-项目/CUDA/CUDA-应用-CTA.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2562,
-      "exportedPath": "00-项目/CUDA/CUDA-应用-CTA.html",
-      "dependencies": []
-    },
-    "00-项目/CUDA/Hardware Efficiency.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 13019,
-      "exportedPath": "00-项目/CUDA/Hardware Efficiency.html",
-      "dependencies": []
-    },
-    "00-项目/CUDA/GPU 渲染管线与着色器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 42289,
-      "exportedPath": "00-项目/CUDA/GPU 渲染管线与着色器.html",
-      "dependencies": []
-    },
-    "00-项目/CUDA/shader的概念.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2858,
-      "exportedPath": "00-项目/CUDA/shader的概念.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/边缘检测.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2247,
-      "exportedPath": "00-项目/HDLBits/边缘检测.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/256位打包的多位选择器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 864,
-      "exportedPath": "00-项目/HDLBits/256位打包的多位选择器.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/多路复用器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 827,
-      "exportedPath": "00-项目/HDLBits/多路复用器.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/加减法器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1945,
-      "exportedPath": "00-项目/HDLBits/加减法器.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/逻辑和模组生成.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4616,
-      "exportedPath": "00-项目/HDLBits/逻辑和模组生成.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/如何进行边缘检测.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1255,
-      "exportedPath": "00-项目/HDLBits/如何进行边缘检测.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/时序赋值和结构赋值.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1702,
-      "exportedPath": "00-项目/HDLBits/时序赋值和结构赋值.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/实例化要在模块的顶层进行.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1693,
-      "exportedPath": "00-项目/HDLBits/实例化要在模块的顶层进行.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/一位加法器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 492,
-      "exportedPath": "00-项目/HDLBits/一位加法器.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/在verilog里使用int.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 511,
-      "exportedPath": "00-项目/HDLBits/在verilog里使用int.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/HDLBits--(Verilog在线学习)--94--97 Edge Detector --HM2K92C.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 6454,
-      "exportedPath": "00-项目/HDLBits/HDLBits--(Verilog在线学习)--94--97 Edge Detector --HM2K92C.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/HDLBits：在线学习 Verilog （二十四 · Problem 115-119） - 知乎-HM2358E.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1809,
-      "exportedPath": "00-项目/HDLBits/HDLBits：在线学习 Verilog （二十四 · Problem 115-119） - 知乎-HM2358E.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/hdlbits十进制计数器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1133,
-      "exportedPath": "00-项目/HDLBits/hdlbits十进制计数器.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/POS和SOP的含义.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1284,
-      "exportedPath": "00-项目/HDLBits/POS和SOP的含义.html",
-      "dependencies": []
-    },
-    "00-项目/HDLBits/Verilog变量位置引发的错误.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2436,
-      "exportedPath": "00-项目/HDLBits/Verilog变量位置引发的错误.html",
-      "dependencies": []
-    },
-    "00-项目/Python/Pytorch/model.eval().md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1540,
-      "exportedPath": "00-项目/Python/Pytorch/model.eval().html",
-      "dependencies": []
-    },
-    "00-项目/Python/Pytorch/Pytorch中,None的用法解析.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4199,
-      "exportedPath": "00-项目/Python/Pytorch/Pytorch中,None的用法解析.html",
-      "dependencies": []
-    },
-    "00-项目/Python/定制类.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 11625,
-      "exportedPath": "00-项目/Python/定制类.html",
-      "dependencies": []
-    },
-    "00-项目/Python/多态.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2664,
-      "exportedPath": "00-项目/Python/多态.html",
-      "dependencies": []
-    },
-    "00-项目/Python/访问限制.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 595,
-      "exportedPath": "00-项目/Python/访问限制.html",
-      "dependencies": []
-    },
-    "00-项目/Python/矩阵增加维度.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 498,
-      "exportedPath": "00-项目/Python/矩阵增加维度.html",
-      "dependencies": []
-    },
-    "00-项目/Python/列表生成式.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 5192,
-      "exportedPath": "00-项目/Python/列表生成式.html",
-      "dependencies": []
-    },
-    "00-项目/Python/使用type()创建class的方法.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 599,
-      "exportedPath": "00-项目/Python/使用type()创建class的方法.html",
-      "dependencies": []
-    },
-    "00-项目/Python/装饰器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 5787,
-      "exportedPath": "00-项目/Python/装饰器.html",
-      "dependencies": []
-    },
-    "00-项目/Python/Lambda表达式匿名函数.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1950,
-      "exportedPath": "00-项目/Python/Lambda表达式匿名函数.html",
-      "dependencies": []
-    },
-    "00-项目/Python/partial().md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 617,
-      "exportedPath": "00-项目/Python/partial().html",
-      "dependencies": []
-    },
-    "00-项目/Triton/多面体编译.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 864,
-      "exportedPath": "00-项目/Triton/多面体编译.html",
-      "dependencies": []
-    },
-    "00-项目/Triton/triton_language.range  Triton 中文站.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1381,
-      "exportedPath": "00-项目/Triton/triton_language.range  Triton 中文站.html",
-      "dependencies": []
-    },
-    "00-项目/Triton/triton_language.range.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1391,
-      "exportedPath": "00-项目/Triton/triton_language.range.html",
-      "dependencies": []
-    },
-    "00-项目/Verilog/序列检测.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4866,
-      "exportedPath": "00-项目/Verilog/序列检测.html",
-      "dependencies": []
-    },
-    "00-项目/Verilog/组合逻辑时序逻辑阻塞非阻塞_always组合逻辑.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1613,
-      "exportedPath": "00-项目/Verilog/组合逻辑时序逻辑阻塞非阻塞_always组合逻辑.html",
-      "dependencies": []
-    },
-    "00-项目/Web/闭包.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 6543,
-      "exportedPath": "00-项目/Web/闭包.html",
-      "dependencies": []
-    },
-    "00-项目/Web/变量提升.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 972,
-      "exportedPath": "00-项目/Web/变量提升.html",
-      "dependencies": []
-    },
-    "00-项目/Web/变量域和函数捕获机制.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1508,
-      "exportedPath": "00-项目/Web/变量域和函数捕获机制.html",
-      "dependencies": []
-    },
-    "00-项目/Web/创建对象.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 8969,
-      "exportedPath": "00-项目/Web/创建对象.html",
-      "dependencies": []
-    },
-    "00-项目/Web/判断对象自身属性.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 902,
-      "exportedPath": "00-项目/Web/判断对象自身属性.html",
-      "dependencies": []
-    },
-    "00-项目/Web/异步执行和回调函数.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1280,
-      "exportedPath": "00-项目/Web/异步执行和回调函数.html",
-      "dependencies": []
-    },
-    "00-项目/Web/原型继承.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 4811,
-      "exportedPath": "00-项目/Web/原型继承.html",
-      "dependencies": []
-    },
-    "00-项目/Web/装饰器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 978,
-      "exportedPath": "00-项目/Web/装饰器.html",
-      "dependencies": []
-    },
-    "00-项目/Web/class继承.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 3192,
-      "exportedPath": "00-项目/Web/class继承.html",
-      "dependencies": []
-    },
-    "00-项目/Web/DataviewJS的点击计数器.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1559,
-      "exportedPath": "00-项目/Web/DataviewJS的点击计数器.html",
-      "dependencies": []
-    },
-    "00-项目/Web/JS数组的软复制和硬复制.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 512,
-      "exportedPath": "00-项目/Web/JS数组的软复制和硬复制.html",
-      "dependencies": []
-    },
-    "00-项目/Web/异步调用-应用-Promise.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 9401,
-      "exportedPath": "00-项目/Web/异步调用-应用-Promise.html",
-      "dependencies": []
-    },
-    "00-项目/Web/sort()方法.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 662,
-      "exportedPath": "00-项目/Web/sort()方法.html",
-      "dependencies": []
-    },
-    "00-项目/Web/this的绑定对象.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2459,
-      "exportedPath": "00-项目/Web/this的绑定对象.html",
-      "dependencies": []
-    },
-    "00-项目/Web/this的错误绑定和修复.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2184,
-      "exportedPath": "00-项目/Web/this的错误绑定和修复.html",
-      "dependencies": []
-    },
-    "00-项目/搭建Vercel的静态网页.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2216,
-      "exportedPath": "00-项目/搭建Vercel的静态网页.html",
-      "dependencies": []
-    },
-    "00-项目/哈马达乘积.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 572,
-      "exportedPath": "00-项目/哈马达乘积.html",
-      "dependencies": []
-    },
-    "00-项目/基于Obsidian的清单展示视图演变.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1185,
-      "exportedPath": "00-项目/基于Obsidian的清单展示视图演变.html",
-      "dependencies": []
-    },
-    "00-项目/双曲正切函数.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 891,
-      "exportedPath": "00-项目/双曲正切函数.html",
-      "dependencies": []
-    },
-    "00-项目/项目的布局.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 1603,
-      "exportedPath": "00-项目/项目的布局.html",
-      "dependencies": []
-    },
-    "00-项目/悬垂指针.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 2128,
-      "exportedPath": "00-项目/悬垂指针.html",
-      "dependencies": []
-    },
     "01-论文/1bit LLMS.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 854,
       "exportedPath": "01-论文/1bit LLMS.html",
       "dependencies": []
     },
     "01-论文/模型量化.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 141,
       "exportedPath": "01-论文/模型量化.html",
       "dependencies": []
     },
     "01-论文/无损压缩.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 141,
       "exportedPath": "01-论文/无损压缩.html",
       "dependencies": []
     },
     "01-论文/异常感知（论文原文）.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 1475,
       "exportedPath": "01-论文/异常感知（论文原文）.html",
       "dependencies": []
     },
     "01-论文/Atom.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 2189,
       "exportedPath": "01-论文/Atom.html",
       "dependencies": []
     },
     "01-论文/AWQ.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 4204,
       "exportedPath": "01-论文/AWQ.html",
       "dependencies": []
     },
     "01-论文/GPTQ.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 221,
       "exportedPath": "01-论文/GPTQ.html",
       "dependencies": []
     },
     "01-论文/GPTQ（原文）.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 1974,
       "exportedPath": "01-论文/GPTQ（原文）.html",
       "dependencies": []
     },
     "01-论文/KIVI.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 4779,
       "exportedPath": "01-论文/KIVI.html",
       "dependencies": []
     },
     "01-论文/KVquant.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 1131,
       "exportedPath": "01-论文/KVquant.html",
       "dependencies": []
     },
     "01-论文/LLM.int8().md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 1521,
       "exportedPath": "01-论文/LLM.int8().html",
       "dependencies": []
     },
     "01-论文/nnzip.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 74,
       "exportedPath": "01-论文/nnzip.html",
       "dependencies": []
     },
     "01-论文/OBC（高效压缩）.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 853,
       "exportedPath": "01-论文/OBC（高效压缩）.html",
       "dependencies": []
     },
     "01-论文/OLAccel.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 2162,
       "exportedPath": "01-论文/OLAccel.html",
       "dependencies": []
     },
     "01-论文/QLoRA.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 649,
       "exportedPath": "01-论文/QLoRA.html",
       "dependencies": []
     },
     "01-论文/Qserve.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 7545,
       "exportedPath": "01-论文/Qserve.html",
       "dependencies": []
     },
     "01-论文/Qserve（原文）.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 1707,
       "exportedPath": "01-论文/Qserve（原文）.html",
       "dependencies": []
     },
     "01-论文/SmoothQuant.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 10775,
       "exportedPath": "01-论文/SmoothQuant.html",
       "dependencies": []
     },
     "01-论文/Tender.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 5659,
       "exportedPath": "01-论文/Tender.html",
       "dependencies": []
     },
     "01-论文/Zeroquant.md": {
-      "modifiedTime": 1733191597194,
+      "modifiedTime": 1733194910494,
       "sourceSize": 1144,
       "exportedPath": "01-论文/Zeroquant.html",
       "dependencies": []
     },
-    "index.md": {
-      "modifiedTime": 1733191597194,
-      "sourceSize": 138,
-      "exportedPath": "index.html",
+    "03-读书笔记/2024年9月5日_《金字塔原理》读书报告.md": {
+      "modifiedTime": 1733194910494,
+      "sourceSize": 2011,
+      "exportedPath": "03-读书笔记/2024年9月5日_《金字塔原理》读书报告.html",
+      "dependencies": []
+    },
+    "03-读书笔记/2024年9月28日_《逻辑的力量》.md": {
+      "modifiedTime": 1733194910494,
+      "sourceSize": 8672,
+      "exportedPath": "03-读书笔记/2024年9月28日_《逻辑的力量》.html",
+      "dependencies": []
+    },
+    "03-读书笔记/华为饱和营销攻击法读后感.md": {
+      "modifiedTime": 1733194910494,
+      "sourceSize": 1142,
+      "exportedPath": "03-读书笔记/华为饱和营销攻击法读后感.html",
+      "dependencies": []
+    },
+    "03-读书笔记/人性的弱点.md": {
+      "modifiedTime": 1733194910494,
+      "sourceSize": 1451,
+      "exportedPath": "03-读书笔记/人性的弱点.html",
+      "dependencies": []
+    },
+    "03-读书笔记/深度工作.md": {
+      "modifiedTime": 1733194910494,
+      "sourceSize": 308,
+      "exportedPath": "03-读书笔记/深度工作.html",
+      "dependencies": []
+    },
+    "03-读书笔记/数字极简.md": {
+      "modifiedTime": 1733194910494,
+      "sourceSize": 2931,
+      "exportedPath": "03-读书笔记/数字极简.html",
+      "dependencies": []
+    },
+    "03-读书笔记/思维导图的作用.md": {
+      "modifiedTime": 1733194910494,
+      "sourceSize": 1062,
+      "exportedPath": "03-读书笔记/思维导图的作用.html",
+      "dependencies": []
+    },
+    "03-读书笔记/鱼没有脚.md": {
+      "modifiedTime": 1733194910494,
+      "sourceSize": 70,
+      "exportedPath": "03-读书笔记/鱼没有脚.html",
+      "dependencies": []
+    },
+    "03-读书笔记/做读书笔记.md": {
+      "modifiedTime": 1733194910494,
+      "sourceSize": 611,
+      "exportedPath": "03-读书笔记/做读书笔记.html",
       "dependencies": []
     }
   }
